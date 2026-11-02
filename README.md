@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./banner.png" alt="Yhasmin S. — Computer Science Student | Software Engineering | Application Security | AI" width="100%">
-    </p><h2>ABOUT ME</h2><p>
+    <alt="Yhasmin S. — Computer Science Student | Software Engineering | Application Security | AI" width="100%">
+    </p><h2>About me</h2><p>
     Computer Science student at UECE interested in software engineering,
     application security, and artificial intelligence. Currently exploring
     LLMs and security research.
